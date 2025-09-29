@@ -94,3 +94,7 @@ Untuk melihat apakah wahana sudah terhapus, pilih menu 2 (Lihat Wahana).
 
 
 ### 5. Menu Keluar
+
+Jika pengguna memilih menu 5 (Keluar), program akan menampilkan pesan “Babayyy, terimakasih!” dan menghentikan seluruh proses. Program ini berjalan dengan perulangan do-while, sehingga setelah setiap aksi (selain keluar), program akan kembali menampilkan menu utama sampai pengguna benar-benar memilih untuk keluar.
+
+<img width="807" height="362" alt="image" src="https://github.com/user-attachments/assets/954167e5-3651-4e1a-927e-80412744f992" />
